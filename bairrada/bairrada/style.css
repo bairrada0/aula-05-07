@@ -1,0 +1,13 @@
+table{
+    border-collapse: collapse;
+   }
+   th,td{
+       border: 4px solid rgba(4, 148, 184, 0.959);
+   }
+   caption{
+       border-color: rgb(111, 0, 255);
+       border-style: groove;
+   }
+   thead{
+       background-color: rgba(163, 91, 247, 0.884);
+   }
